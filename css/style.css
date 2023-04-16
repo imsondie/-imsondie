@@ -1,0 +1,17 @@
+.item__about{
+list-style: none;
+}
+.grey_line{
+background-color: grey;
+width:445px ;
+height: 4px;
+}
+.red_line{
+background-color: red;
+width: 350px;
+height: 4px;
+}
+/*gallery*/
+.gallery_img{
+width: 480px;
+}
